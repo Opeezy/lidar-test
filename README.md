@@ -1,2 +1,3 @@
-# lidar-test
-Repo for testing the ld19 
+# lidar-utils
+Utils library for lidar-arduino
+
