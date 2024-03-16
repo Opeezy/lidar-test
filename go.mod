@@ -1,4 +1,4 @@
-module github.com/Opeezy/lidar-utils
+module github.com/Opeezy/utils
 
 go 1.21.6
 
